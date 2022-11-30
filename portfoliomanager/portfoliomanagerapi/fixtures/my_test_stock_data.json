@@ -1,0 +1,7122 @@
+[
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 2,
+        "fields": {
+            "symbol": "A",
+            "name": "AGILENT TECHNOLOGIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 3,
+        "fields": {
+            "symbol": "AAON",
+            "name": "AAON INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 4,
+        "fields": {
+            "symbol": "ABBV",
+            "name": "ABBVIE INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 5,
+        "fields": {
+            "symbol": "ABM",
+            "name": "ABM INDUSTRIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 6,
+        "fields": {
+            "symbol": "ACA",
+            "name": "ARCOSA INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 7,
+        "fields": {
+            "symbol": "ACES",
+            "name": "ALPS CLEAN ENERGY ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 8,
+        "fields": {
+            "symbol": "ACIU",
+            "name": "AC IMMUNE SA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 9,
+        "fields": {
+            "symbol": "ACRE",
+            "name": "ARES COMMERCIAL REAL ESTATE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 10,
+        "fields": {
+            "symbol": "ACTTW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 11,
+        "fields": {
+            "symbol": "ADC",
+            "name": "AGREE REALTY CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 12,
+        "fields": {
+            "symbol": "ADP",
+            "name": "AUTOMATIC DATA PROCESSING"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 13,
+        "fields": {
+            "symbol": "ADT",
+            "name": "ADT INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 14,
+        "fields": {
+            "symbol": "AEFC",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 15,
+        "fields": {
+            "symbol": "AEP",
+            "name": "AMERICAN ELECTRIC POWER"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 16,
+        "fields": {
+            "symbol": "AFC",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 17,
+        "fields": {
+            "symbol": "AFK",
+            "name": "VANECK AFRICA INDEX"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 18,
+        "fields": {
+            "symbol": "AGBAW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 19,
+        "fields": {
+            "symbol": "AGGY",
+            "name": "WISDOMTREE YIELD ENHANCED US"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 20,
+        "fields": {
+            "symbol": "AGN",
+            "name": "ALLERGAN PLC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 21,
+        "fields": {
+            "symbol": "AGO-F",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 22,
+        "fields": {
+            "symbol": "AGZ",
+            "name": "ISHARES AGENCY BOND ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 23,
+        "fields": {
+            "symbol": "AHT-D",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 24,
+        "fields": {
+            "symbol": "AIEQ",
+            "name": "AI POWERED EQUITY ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 25,
+        "fields": {
+            "symbol": "AIMT",
+            "name": "AIMMUNE THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 26,
+        "fields": {
+            "symbol": "AIRT",
+            "name": "AIR T INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 27,
+        "fields": {
+            "symbol": "AJX",
+            "name": "GREAT AJAX CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 28,
+        "fields": {
+            "symbol": "AKRO",
+            "name": "AKERO THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 29,
+        "fields": {
+            "symbol": "ALACW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 30,
+        "fields": {
+            "symbol": "ALG",
+            "name": "ALAMO GROUP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 31,
+        "fields": {
+            "symbol": "ALKS",
+            "name": "ALKERMES PLC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 32,
+        "fields": {
+            "symbol": "ALLY",
+            "name": "ALLY FINANCIAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 33,
+        "fields": {
+            "symbol": "ALRS",
+            "name": "ALERUS FINANCIAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 34,
+        "fields": {
+            "symbol": "ALXN",
+            "name": "ALEXION PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 35,
+        "fields": {
+            "symbol": "AMC",
+            "name": "AMC ENTERTAINMENT HLDS-CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 36,
+        "fields": {
+            "symbol": "AMEH",
+            "name": "APOLLO MEDICAL HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 37,
+        "fields": {
+            "symbol": "AMJL",
+            "name": "X-LINKS 2XLEVRG ALERIAN MLP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 38,
+        "fields": {
+            "symbol": "AMPE",
+            "name": "AMPIO PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 39,
+        "fields": {
+            "symbol": "AMRX",
+            "name": "AMNEAL PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 40,
+        "fields": {
+            "symbol": "AMU",
+            "name": "ETRACS ALERIAN MLP ETN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 41,
+        "fields": {
+            "symbol": "ANDA",
+            "name": "ANDINA ACQUISITION CORP III"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 42,
+        "fields": {
+            "symbol": "ANGO",
+            "name": "ANGIODYNAMICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 43,
+        "fields": {
+            "symbol": "ANTM",
+            "name": "ANTHEM INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 44,
+        "fields": {
+            "symbol": "AOS",
+            "name": "SMITH (A.O.) CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 45,
+        "fields": {
+            "symbol": "APEX",
+            "name": "APEX GLOBAL BRANDS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 46,
+        "fields": {
+            "symbol": "APOG",
+            "name": "APOGEE ENTERPRISES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 47,
+        "fields": {
+            "symbol": "APTS",
+            "name": "PREFERRED APARTMENT COMMUN-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 48,
+        "fields": {
+            "symbol": "AQN",
+            "name": "ALGONQUIN POWER & UTILITIES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 49,
+        "fields": {
+            "symbol": "ARCB",
+            "name": "ARCBEST CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 50,
+        "fields": {
+            "symbol": "ARDX",
+            "name": "ARDELYX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 51,
+        "fields": {
+            "symbol": "ARI",
+            "name": "APOLLO COMMERCIAL REAL ESTAT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 52,
+        "fields": {
+            "symbol": "ARMK",
+            "name": "ARAMARK"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 53,
+        "fields": {
+            "symbol": "ARR-B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 54,
+        "fields": {
+            "symbol": "ARYAU",
+            "name": "ARYA SCIENCES ACQUISITION CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 55,
+        "fields": {
+            "symbol": "ASFI",
+            "name": "ASTA FUNDING INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 56,
+        "fields": {
+            "symbol": "ASMB",
+            "name": "ASSEMBLY BIOSCIENCES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 57,
+        "fields": {
+            "symbol": "ASRVP",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 58,
+        "fields": {
+            "symbol": "ATEX",
+            "name": "ANTERIX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 59,
+        "fields": {
+            "symbol": "ATIS",
+            "name": "ATTIS INDUSTRIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 60,
+        "fields": {
+            "symbol": "ATOM",
+            "name": "ATOMERA INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 61,
+        "fields": {
+            "symbol": "ATUS",
+            "name": "ALTICE USA INC- A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 62,
+        "fields": {
+            "symbol": "AUPH",
+            "name": "AURINIA PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 63,
+        "fields": {
+            "symbol": "AVD",
+            "name": "AMERICAN VANGUARD CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 64,
+        "fields": {
+            "symbol": "AVH",
+            "name": "AVIANCA HOLDINGS SA-SPON ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 65,
+        "fields": {
+            "symbol": "AVTR-A",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 66,
+        "fields": {
+            "symbol": "AWP",
+            "name": "ABERDEEN GLBL PREM PROP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 67,
+        "fields": {
+            "symbol": "AXGN",
+            "name": "AXOGEN INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 68,
+        "fields": {
+            "symbol": "AXS-D",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 69,
+        "fields": {
+            "symbol": "AYX",
+            "name": "ALTERYX INC - CLASS A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 70,
+        "fields": {
+            "symbol": "BAB",
+            "name": "INVESCO TAXABLE MUNICIPAL BO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 71,
+        "fields": {
+            "symbol": "BAC-N",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 72,
+        "fields": {
+            "symbol": "BAND",
+            "name": "BANDWIDTH INC-CLASS A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 73,
+        "fields": {
+            "symbol": "BATRA",
+            "name": "LIBERTY MEDIA CORP-BRAVES A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 74,
+        "fields": {
+            "symbol": "BBCA",
+            "name": "JPMORGAN BETABUILDERS CANADA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 75,
+        "fields": {
+            "symbol": "BBIO",
+            "name": "BRIDGEBIO PHARMA INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 76,
+        "fields": {
+            "symbol": "BBT",
+            "name": "BB&T CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 77,
+        "fields": {
+            "symbol": "BC",
+            "name": "BRUNSWICK CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 78,
+        "fields": {
+            "symbol": "BCEI",
+            "name": "BONANZA CREEK ENERGY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 79,
+        "fields": {
+            "symbol": "BCOV",
+            "name": "BRIGHTCOVE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 80,
+        "fields": {
+            "symbol": "BCX",
+            "name": "BLACKROCK RESOURCES & COMMOD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 81,
+        "fields": {
+            "symbol": "BDN",
+            "name": "BRANDYWINE REALTY TRUST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 82,
+        "fields": {
+            "symbol": "BELFA",
+            "name": "BEL FUSE INC-CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 83,
+        "fields": {
+            "symbol": "BFC",
+            "name": "BANK FIRST CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 84,
+        "fields": {
+            "symbol": "BFST",
+            "name": "BUSINESS FIRST BANCSHARES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 85,
+        "fields": {
+            "symbol": "BGIO",
+            "name": "BLACKROCK 2022 GLOBAL INCOME"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 86,
+        "fields": {
+            "symbol": "BH.A",
+            "name": "BIGLARI HOLDINGS INC-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 87,
+        "fields": {
+            "symbol": "BHP",
+            "name": "BHP GROUP LTD-SPON ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 88,
+        "fields": {
+            "symbol": "BIDU",
+            "name": "BAIDU INC - SPON ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 89,
+        "fields": {
+            "symbol": "BIOL",
+            "name": "BIOLASE INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 90,
+        "fields": {
+            "symbol": "BJ",
+            "name": "BJ'S WHOLESALE CLUB HOLDINGS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 91,
+        "fields": {
+            "symbol": "BKE",
+            "name": "BUCKLE INC/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 92,
+        "fields": {
+            "symbol": "BKNG",
+            "name": "BOOKING HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 93,
+        "fields": {
+            "symbol": "BLCN",
+            "name": "REALITY SHRS NASDAQ NEXGEN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 94,
+        "fields": {
+            "symbol": "BLKB",
+            "name": "BLACKBAUD INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 95,
+        "fields": {
+            "symbol": "BLV",
+            "name": "VANGUARD LONG-TERM BOND ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 96,
+        "fields": {
+            "symbol": "BML-L",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 97,
+        "fields": {
+            "symbol": "BNDW",
+            "name": "VANGUARD TOTAL WORLD BOND ET"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 98,
+        "fields": {
+            "symbol": "BNO",
+            "name": "UNITED STATES BRENT OIL FUND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 99,
+        "fields": {
+            "symbol": "BOE",
+            "name": "BLACKROCK ENHANCED GLOBAL DI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 100,
+        "fields": {
+            "symbol": "BORR",
+            "name": "BORR DRILLING LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 101,
+        "fields": {
+            "symbol": "BPMC",
+            "name": "BLUEPRINT MEDICINES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 102,
+        "fields": {
+            "symbol": "BPTH",
+            "name": "BIO-PATH HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 103,
+        "fields": {
+            "symbol": "BRFS",
+            "name": "BRF SA-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 104,
+        "fields": {
+            "symbol": "BRKS",
+            "name": "BROOKS AUTOMATION INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 105,
+        "fields": {
+            "symbol": "BRPAU",
+            "name": "BIG ROCK PARTNERS ACQUISITIO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 106,
+        "fields": {
+            "symbol": "BSA",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 107,
+        "fields": {
+            "symbol": "BSCN",
+            "name": "INVESCO BULLETSHARES 2023 CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 108,
+        "fields": {
+            "symbol": "BSEP",
+            "name": "INNOVATOR S&P 500 BUFFER SEP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 109,
+        "fields": {
+            "symbol": "BSJP",
+            "name": "INVESCO BULLETSHARES 2025 HI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 110,
+        "fields": {
+            "symbol": "BSMQ",
+            "name": "INVESCO BULLETSHARES 2026 MU"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 111,
+        "fields": {
+            "symbol": "BSV",
+            "name": "VANGUARD SHORT-TERM BOND ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 112,
+        "fields": {
+            "symbol": "BTN",
+            "name": "BALLANTYNE STRONG INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 113,
+        "fields": {
+            "symbol": "BURL",
+            "name": "BURLINGTON STORES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 114,
+        "fields": {
+            "symbol": "BW",
+            "name": "BABCOCK & WILCOX ENTERPR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 115,
+        "fields": {
+            "symbol": "BWMCW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 116,
+        "fields": {
+            "symbol": "BXP-B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 117,
+        "fields": {
+            "symbol": "BZM",
+            "name": "BLACKROCK MARYLAND MUNI BOND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 118,
+        "fields": {
+            "symbol": "CABA",
+            "name": "CABALETTA BIO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 119,
+        "fields": {
+            "symbol": "CAH",
+            "name": "CARDINAL HEALTH INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 120,
+        "fields": {
+            "symbol": "CALX",
+            "name": "CALIX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 121,
+        "fields": {
+            "symbol": "CARA",
+            "name": "CARA THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 122,
+        "fields": {
+            "symbol": "CASH",
+            "name": "META FINANCIAL GROUP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 123,
+        "fields": {
+            "symbol": "CATS",
+            "name": "CATASYS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 124,
+        "fields": {
+            "symbol": "CBH",
+            "name": "ALLIANZGI CONVERTIBLE & INCO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 125,
+        "fields": {
+            "symbol": "CBO",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 126,
+        "fields": {
+            "symbol": "CBSHP",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 127,
+        "fields": {
+            "symbol": "CCC+",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 128,
+        "fields": {
+            "symbol": "CCJ",
+            "name": "CAMECO CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 129,
+        "fields": {
+            "symbol": "CCR",
+            "name": "CONSOL COAL RESOURCES LP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 130,
+        "fields": {
+            "symbol": "CDAY",
+            "name": "CERIDIAN HCM HOLDING INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 131,
+        "fields": {
+            "symbol": "CDNS",
+            "name": "CADENCE DESIGN SYS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 132,
+        "fields": {
+            "symbol": "CE",
+            "name": "CELANESE CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 133,
+        "fields": {
+            "symbol": "CEIX",
+            "name": "CONSOL ENERGY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 134,
+        "fields": {
+            "symbol": "CEN",
+            "name": "CENTER COAST BROOKFIELD MLP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 135,
+        "fields": {
+            "symbol": "CERS",
+            "name": "CERUS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 136,
+        "fields": {
+            "symbol": "CEZ",
+            "name": "VICTORYSHARES EMERGING MARKE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 137,
+        "fields": {
+            "symbol": "CFFN",
+            "name": "CAPITOL FEDERAL FINANCIAL IN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 138,
+        "fields": {
+            "symbol": "CFXA",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 139,
+        "fields": {
+            "symbol": "CHA",
+            "name": "CHINA TELECOM CORP LTD-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 140,
+        "fields": {
+            "symbol": "CHEF",
+            "name": "CHEFS' WAREHOUSE INC/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 141,
+        "fields": {
+            "symbol": "CHIC",
+            "name": "GLOBAL X MSCI CHINA COMMUNIC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 142,
+        "fields": {
+            "symbol": "CHIU",
+            "name": "GLOBAL X MSCI CHINA UTIL ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 143,
+        "fields": {
+            "symbol": "CHMI-A",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 144,
+        "fields": {
+            "symbol": "CHS",
+            "name": "CHICO'S FAS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 145,
+        "fields": {
+            "symbol": "CHW",
+            "name": "CALAMOS GLOBAL DYNAMIC INCOM"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 146,
+        "fields": {
+            "symbol": "CIF",
+            "name": "MFS INTERMEDIATE HIGH INC FN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 147,
+        "fields": {
+            "symbol": "CIM-A",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 148,
+        "fields": {
+            "symbol": "CIT",
+            "name": "CIT GROUP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 149,
+        "fields": {
+            "symbol": "CL",
+            "name": "COLGATE-PALMOLIVE CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 150,
+        "fields": {
+            "symbol": "CLF",
+            "name": "CLEVELAND-CLIFFS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 151,
+        "fields": {
+            "symbol": "CLMT",
+            "name": "CALUMET SPECIALTY PRODUCTS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 152,
+        "fields": {
+            "symbol": "CLOU",
+            "name": "GLOBAL X CLOUD COMPUTING ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 153,
+        "fields": {
+            "symbol": "CLSN",
+            "name": "CELSION CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 154,
+        "fields": {
+            "symbol": "CMBM",
+            "name": "CAMBIUM NETWORKS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 155,
+        "fields": {
+            "symbol": "CMDY",
+            "name": "ISHARES BLOOMBERG ROLL SELEC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 156,
+        "fields": {
+            "symbol": "CMPR",
+            "name": "CIMPRESS NV"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 157,
+        "fields": {
+            "symbol": "CMSC",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 158,
+        "fields": {
+            "symbol": "CNC",
+            "name": "CENTENE CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 159,
+        "fields": {
+            "symbol": "CNI",
+            "name": "CANADIAN NATL RAILWAY CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 160,
+        "fields": {
+            "symbol": "CNRG",
+            "name": "SPDR S&P KENSHO CLEAN POWER"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 161,
+        "fields": {
+            "symbol": "CNYA",
+            "name": "ISHARES MSCI CHINA A ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 162,
+        "fields": {
+            "symbol": "COF-C*",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 163,
+        "fields": {
+            "symbol": "COHU",
+            "name": "COHU INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 164,
+        "fields": {
+            "symbol": "COMT",
+            "name": "ISHARES COMMOD SELECT STRAT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 165,
+        "fields": {
+            "symbol": "CORP",
+            "name": "PIMCO INV GRADE CORP BD ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 166,
+        "fields": {
+            "symbol": "COWN",
+            "name": "COWEN INC - A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 167,
+        "fields": {
+            "symbol": "CPAH",
+            "name": "COUNTERPATH CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 168,
+        "fields": {
+            "symbol": "CPK",
+            "name": "CHESAPEAKE UTILITIES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 169,
+        "fields": {
+            "symbol": "CPSS",
+            "name": "CONSUMER PORTFOLIO SERVICES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 170,
+        "fields": {
+            "symbol": "CRAK",
+            "name": "VANECK OIL REFINERS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 171,
+        "fields": {
+            "symbol": "CREX",
+            "name": "CREATIVE REALITIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 172,
+        "fields": {
+            "symbol": "CRMD",
+            "name": "CORMEDIX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 173,
+        "fields": {
+            "symbol": "CRS",
+            "name": "CARPENTER TECHNOLOGY"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 174,
+        "fields": {
+            "symbol": "CRVS",
+            "name": "CORVUS PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 175,
+        "fields": {
+            "symbol": "CSD",
+            "name": "INVESCO S&P SPIN-OFF ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 176,
+        "fields": {
+            "symbol": "CSML",
+            "name": "IQ CHAIKIN SMALL CAP ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 177,
+        "fields": {
+            "symbol": "CSTR",
+            "name": "CAPSTAR FINANCIAL HOLDINGS I"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 178,
+        "fields": {
+            "symbol": "CTAC",
+            "name": "CHASERG TECHNOLOGY ACQUISI-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 179,
+        "fields": {
+            "symbol": "CTHR",
+            "name": "CHARLES & COLVARD LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 180,
+        "fields": {
+            "symbol": "CTRC",
+            "name": "CENTRIC BRANDS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 181,
+        "fields": {
+            "symbol": "CTV",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 182,
+        "fields": {
+            "symbol": "CUBI",
+            "name": "CUSTOMERS BANCORP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 183,
+        "fields": {
+            "symbol": "CURE",
+            "name": "DRX DLY HEALTHCARE BULL 3X"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 184,
+        "fields": {
+            "symbol": "CVEO",
+            "name": "CIVEO CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 185,
+        "fields": {
+            "symbol": "CVR",
+            "name": "CHICAGO RIVET & MACHINE CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 186,
+        "fields": {
+            "symbol": "CWBR",
+            "name": "COHBAR INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 187,
+        "fields": {
+            "symbol": "CWT",
+            "name": "CALIFORNIA WATER SERVICE GRP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 188,
+        "fields": {
+            "symbol": "CYAD",
+            "name": "CELYAD -SPON ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 189,
+        "fields": {
+            "symbol": "CYOU",
+            "name": "CHANGYOU.COM LTD-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 190,
+        "fields": {
+            "symbol": "D",
+            "name": "DOMINION ENERGY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 191,
+        "fields": {
+            "symbol": "DARE",
+            "name": "DARE BIOSCIENCE INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 192,
+        "fields": {
+            "symbol": "DBE",
+            "name": "INVESCO DB ENERGY FUND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 193,
+        "fields": {
+            "symbol": "DBLV",
+            "name": "ADVISORSHARES DOUBLELINE VAL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 194,
+        "fields": {
+            "symbol": "DCHF",
+            "name": "VELOCITYSHARES DAILY 4X LONG"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 195,
+        "fields": {
+            "symbol": "DD",
+            "name": "DUPONT DE NEMOURS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 196,
+        "fields": {
+            "symbol": "DDOG",
+            "name": "DATADOG INC - CLASS A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 197,
+        "fields": {
+            "symbol": "DEEF",
+            "name": "XTRACKERS FTSE DEVELOPED EX"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 198,
+        "fields": {
+            "symbol": "DES",
+            "name": "WISDOMTREE US SMALLCAP DIVID"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 199,
+        "fields": {
+            "symbol": "DFBHW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 200,
+        "fields": {
+            "symbol": "DFVL",
+            "name": "IPATH US TREASURY 5-YR BULL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 201,
+        "fields": {
+            "symbol": "DGLY",
+            "name": "DIGITAL ALLY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 202,
+        "fields": {
+            "symbol": "DGZ",
+            "name": "DB GOLD SHORT ETN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 203,
+        "fields": {
+            "symbol": "DHXM",
+            "name": "DHX MEDIA LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 204,
+        "fields": {
+            "symbol": "DIS",
+            "name": "WALT DISNEY CO/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 205,
+        "fields": {
+            "symbol": "DIVO",
+            "name": "AMPLIFY CWP ENHANCED DIVIDEN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 206,
+        "fields": {
+            "symbol": "DKS",
+            "name": "DICK'S SPORTING GOODS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 207,
+        "fields": {
+            "symbol": "DLNG-A",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 208,
+        "fields": {
+            "symbol": "DLR-K",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 209,
+        "fields": {
+            "symbol": "DMLP",
+            "name": "DORCHESTER MINERALS LP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 210,
+        "fields": {
+            "symbol": "DNBF",
+            "name": "DNB FINANCIAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 211,
+        "fields": {
+            "symbol": "DO",
+            "name": "DIAMOND OFFSHORE DRILLING"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 212,
+        "fields": {
+            "symbol": "DOOO",
+            "name": "BRP INC/CA- SUB VOTING"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 213,
+        "fields": {
+            "symbol": "DPHCU",
+            "name": "DIAMONDPEAK HOLDINGS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 214,
+        "fields": {
+            "symbol": "DRD",
+            "name": "DRDGOLD LTD-SPONSORED ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 215,
+        "fields": {
+            "symbol": "DRQ",
+            "name": "DRIL-QUIP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 216,
+        "fields": {
+            "symbol": "DS-C",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 217,
+        "fields": {
+            "symbol": "DSPG",
+            "name": "DSP GROUP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 218,
+        "fields": {
+            "symbol": "DTE",
+            "name": "DTE ENERGY COMPANY"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 219,
+        "fields": {
+            "symbol": "DTQ",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 220,
+        "fields": {
+            "symbol": "DUK",
+            "name": "DUKE ENERGY CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 221,
+        "fields": {
+            "symbol": "DVAX",
+            "name": "DYNAVAX TECHNOLOGIES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 222,
+        "fields": {
+            "symbol": "DVYE",
+            "name": "ISHARES EMERGING MARKETS DIV"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 223,
+        "fields": {
+            "symbol": "DWMC",
+            "name": "ADVISORSHARES DORSEY MC ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 224,
+        "fields": {
+            "symbol": "DX-B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 225,
+        "fields": {
+            "symbol": "DXPE",
+            "name": "DXP ENTERPRISES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 226,
+        "fields": {
+            "symbol": "DZSI",
+            "name": "DASAN ZHONE SOLUTIONS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 227,
+        "fields": {
+            "symbol": "EARN",
+            "name": "ELLINGTON RESIDENTIAL MORTGA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 228,
+        "fields": {
+            "symbol": "EBIX",
+            "name": "EBIX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 229,
+        "fields": {
+            "symbol": "ECA",
+            "name": "ENCANA CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 230,
+        "fields": {
+            "symbol": "ECL",
+            "name": "ECOLAB INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 231,
+        "fields": {
+            "symbol": "ECT",
+            "name": "ECA MARCELLUS TRUST I"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 232,
+        "fields": {
+            "symbol": "EDN",
+            "name": "EMP DISTRIB Y COMERC NOR-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 233,
+        "fields": {
+            "symbol": "EDUC",
+            "name": "EDUCATIONAL DEVELOPMENT CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 234,
+        "fields": {
+            "symbol": "EEM",
+            "name": "ISHARES MSCI EMERGING MARKET"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 235,
+        "fields": {
+            "symbol": "EEX",
+            "name": "EMERALD EXPOSITIONS EVENTS I"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 236,
+        "fields": {
+            "symbol": "EFG",
+            "name": "ISHARES MSCI EAFE GROWTH ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 237,
+        "fields": {
+            "symbol": "EFX",
+            "name": "EQUIFAX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 238,
+        "fields": {
+            "symbol": "EGP",
+            "name": "EASTGROUP PROPERTIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 239,
+        "fields": {
+            "symbol": "EIDX",
+            "name": "EIDOS THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 240,
+        "fields": {
+            "symbol": "EKSO",
+            "name": "EKSO BIONICS HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 241,
+        "fields": {
+            "symbol": "ELOX",
+            "name": "ELOXX PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 242,
+        "fields": {
+            "symbol": "EMB",
+            "name": "ISHARES JP MORGAN USD EMERGI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 243,
+        "fields": {
+            "symbol": "EMFM",
+            "name": "GLOBAL X MSCI NEXT EMERGING"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 244,
+        "fields": {
+            "symbol": "EMMS",
+            "name": "EMMIS COMMUNICATIONS-CLASS A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 245,
+        "fields": {
+            "symbol": "EMX",
+            "name": "EMX ROYALTY CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 246,
+        "fields": {
+            "symbol": "ENIC",
+            "name": "ENEL CHILE SA-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 247,
+        "fields": {
+            "symbol": "ENS",
+            "name": "ENERSYS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 248,
+        "fields": {
+            "symbol": "ENVA",
+            "name": "ENOVA INTERNATIONAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 249,
+        "fields": {
+            "symbol": "EP-C",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 250,
+        "fields": {
+            "symbol": "EPOL",
+            "name": "ISHARES MSCI POLAND ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 251,
+        "fields": {
+            "symbol": "EPU",
+            "name": "ISHARES MSCI PERU ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 252,
+        "fields": {
+            "symbol": "EQL",
+            "name": "ALPS EQUAL SECTOR WEIGHT ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 253,
+        "fields": {
+            "symbol": "ERC",
+            "name": "WELLS FARGO MULTI-SECTOR INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 254,
+        "fields": {
+            "symbol": "ERSX",
+            "name": "ERShares Non-US SMALLCAP ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 255,
+        "fields": {
+            "symbol": "ESEA",
+            "name": "EUROSEAS LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 256,
+        "fields": {
+            "symbol": "ESGRP",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 257,
+        "fields": {
+            "symbol": "ESPO",
+            "name": "VANECK VIDEO GAMING ESPORTS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 258,
+        "fields": {
+            "symbol": "ESTRW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 259,
+        "fields": {
+            "symbol": "ETM",
+            "name": "ENTERCOM COMMUNICATIONS-CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 260,
+        "fields": {
+            "symbol": "ETTX",
+            "name": "ENTASIS THERAPEUTICS HOLDING"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 261,
+        "fields": {
+            "symbol": "EUM",
+            "name": "PROSHARES SHORT MSCI EMR MKT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 262,
+        "fields": {
+            "symbol": "EVA",
+            "name": "ENVIVA PARTNERS LP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 263,
+        "fields": {
+            "symbol": "EVH",
+            "name": "EVOLENT HEALTH INC - A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 264,
+        "fields": {
+            "symbol": "EVOP",
+            "name": "EVO PAYMENTS INC-CLASS A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 265,
+        "fields": {
+            "symbol": "EVX",
+            "name": "VANECK ENVIRONMENTAL SRVCS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 266,
+        "fields": {
+            "symbol": "EWGS",
+            "name": "ISHARES MSCI GERMANY SMALL-C"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 267,
+        "fields": {
+            "symbol": "EWN",
+            "name": "ISHARES MSCI NETHERLANDS ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 268,
+        "fields": {
+            "symbol": "EWV",
+            "name": "PROSHARES ULTSHRT MSCI JAPAN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 269,
+        "fields": {
+            "symbol": "EXFO",
+            "name": "EXFO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 270,
+        "fields": {
+            "symbol": "EXPD",
+            "name": "EXPEDITORS INTL WASH INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 271,
+        "fields": {
+            "symbol": "EYEG",
+            "name": "EYEGATE PHARMACEUTICALS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 272,
+        "fields": {
+            "symbol": "EZPW",
+            "name": "EZCORP INC-CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 273,
+        "fields": {
+            "symbol": "FAM",
+            "name": "FIRST TRUST ABERDEEN GLOBAL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 274,
+        "fields": {
+            "symbol": "FATE",
+            "name": "FATE THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 275,
+        "fields": {
+            "symbol": "FBIZ",
+            "name": "FIRST BUSINESS FINANCIAL SER"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 276,
+        "fields": {
+            "symbol": "FC",
+            "name": "FRANKLIN COVEY CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 277,
+        "fields": {
+            "symbol": "FCEF",
+            "name": "FIRST TRUST CEF INCOME OPP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 278,
+        "fields": {
+            "symbol": "FCPT",
+            "name": "FOUR CORNERS PROPERTY TRUST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 279,
+        "fields": {
+            "symbol": "FDEU",
+            "name": "FIRST TR DYN EUR EQTY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 280,
+        "fields": {
+            "symbol": "FDNI",
+            "name": "FIRST TRUST DOW JONES INTL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 281,
+        "fields": {
+            "symbol": "FDVV",
+            "name": "FIDELITY HIGH DIVIDEND ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 282,
+        "fields": {
+            "symbol": "FEMS",
+            "name": "FIRST TRUST EMERGING MARKETS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 283,
+        "fields": {
+            "symbol": "FEX",
+            "name": "FIRST TRUST LARGE CAP CORE A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 284,
+        "fields": {
+            "symbol": "FFHG",
+            "name": "FORMULA FOLIOS HEDGED GROWTH"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 285,
+        "fields": {
+            "symbol": "FFTI",
+            "name": "FORMULAFOLIOS TACTICAL INCOM"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 286,
+        "fields": {
+            "symbol": "FGP",
+            "name": "FERRELLGAS PARTNERS-LP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 287,
+        "fields": {
+            "symbol": "FID",
+            "name": "FIRST TRUST S&P INTERNATIONA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 288,
+        "fields": {
+            "symbol": "FINX",
+            "name": "GLOBAL X FINTECH ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 289,
+        "fields": {
+            "symbol": "FITBO",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 290,
+        "fields": {
+            "symbol": "FIXD",
+            "name": "FIRST TRUST TCW OPP FIXED IN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 291,
+        "fields": {
+            "symbol": "FLAT",
+            "name": "IPATH US TSY FLATTENER"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 292,
+        "fields": {
+            "symbol": "FLDM",
+            "name": "FLUIDIGM CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 293,
+        "fields": {
+            "symbol": "FLGT",
+            "name": "FULGENT GENETICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 294,
+        "fields": {
+            "symbol": "FLJP",
+            "name": "FRANKLIN FTSE JAPAN ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 295,
+        "fields": {
+            "symbol": "FLMB",
+            "name": "FRANKLIN LIBERTY MUNI BD ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 296,
+        "fields": {
+            "symbol": "FLOW",
+            "name": "SPX FLOW INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 297,
+        "fields": {
+            "symbol": "FLRT",
+            "name": "PACIFIC ASSET ENHANCED FLOAT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 298,
+        "fields": {
+            "symbol": "FLXN",
+            "name": "FLEXION THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 299,
+        "fields": {
+            "symbol": "FMC",
+            "name": "FMC CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 300,
+        "fields": {
+            "symbol": "FMS",
+            "name": "FRESENIUS MEDICAL CARE-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 301,
+        "fields": {
+            "symbol": "FNDB",
+            "name": "SCHWAB FUNDAMENTAL BROAD MKT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 302,
+        "fields": {
+            "symbol": "FNHC",
+            "name": "FEDNAT HOLDING CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 303,
+        "fields": {
+            "symbol": "FOCS",
+            "name": "FOCUS FINANCIAL PARTNERS-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 304,
+        "fields": {
+            "symbol": "FORR",
+            "name": "FORRESTER RESEARCH INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 305,
+        "fields": {
+            "symbol": "FPAC=",
+            "name": "FAR POINT ACQUISITION CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 306,
+        "fields": {
+            "symbol": "FPRX",
+            "name": "FIVE PRIME THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 307,
+        "fields": {
+            "symbol": "FRBA",
+            "name": "FIRST BANK/HAMILTON NJ"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 308,
+        "fields": {
+            "symbol": "FREQ",
+            "name": "FREQUENCY THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 309,
+        "fields": {
+            "symbol": "FRSX",
+            "name": "FORESIGHT AUTONOMOUS-SP ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 310,
+        "fields": {
+            "symbol": "FSFG",
+            "name": "FIRST SAVINGS FINANCIAL GRP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 311,
+        "fields": {
+            "symbol": "FSS",
+            "name": "FEDERAL SIGNAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 312,
+        "fields": {
+            "symbol": "FTAG",
+            "name": "FIRST TRUST INDXX GLOBAL AGR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 313,
+        "fields": {
+            "symbol": "FTF",
+            "name": "FRANKLIN LTD DUR INC TR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 314,
+        "fields": {
+            "symbol": "FTR",
+            "name": "FRONTIER COMMUNICATIONS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 315,
+        "fields": {
+            "symbol": "FTVA",
+            "name": "APTUS FORTIFIED VALUE ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 316,
+        "fields": {
+            "symbol": "FUL",
+            "name": "H.B. FULLER CO."
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 317,
+        "fields": {
+            "symbol": "FUTY",
+            "name": "FIDELITY US UTILITIES ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 318,
+        "fields": {
+            "symbol": "FWDB",
+            "name": "ADVISORSHARES FOLIOBEYOND SM"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 319,
+        "fields": {
+            "symbol": "FXE",
+            "name": "INVESCO CURRENCYSHARES EURO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 320,
+        "fields": {
+            "symbol": "FXR",
+            "name": "FIRST TRUST INDST/PRODUCERS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 321,
+        "fields": {
+            "symbol": "G",
+            "name": "GENPACT LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 322,
+        "fields": {
+            "symbol": "GAINL",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 323,
+        "fields": {
+            "symbol": "GASS",
+            "name": "STEALTHGAS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 324,
+        "fields": {
+            "symbol": "GBLI",
+            "name": "GLOBAL INDEMNITY LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 325,
+        "fields": {
+            "symbol": "GCC",
+            "name": "WISDOMTREE CONTINUOUS COMMOD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 326,
+        "fields": {
+            "symbol": "GDAT",
+            "name": "GS MOTIF DATA-DRIVEN WD ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 327,
+        "fields": {
+            "symbol": "GDOT",
+            "name": "GREEN DOT CORP-CLASS A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 328,
+        "fields": {
+            "symbol": "GDX",
+            "name": "VANECK GOLD MINERS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 329,
+        "fields": {
+            "symbol": "GEL",
+            "name": "GENESIS ENERGY L.P."
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 330,
+        "fields": {
+            "symbol": "GERN",
+            "name": "GERON CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 331,
+        "fields": {
+            "symbol": "GFNSL",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 332,
+        "fields": {
+            "symbol": "GGT",
+            "name": "GABELLI MULTIMEDIA TRUST INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 333,
+        "fields": {
+            "symbol": "GHL",
+            "name": "GREENHILL & CO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 334,
+        "fields": {
+            "symbol": "GIG=",
+            "name": "GIGCAPITAL INC-UNIT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 335,
+        "fields": {
+            "symbol": "GIM",
+            "name": "TEMPLETON GLOBAL INCOME FUND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 336,
+        "fields": {
+            "symbol": "GJS",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 337,
+        "fields": {
+            "symbol": "GLBY",
+            "name": "WISDOMTREE YL EHD GBL AGG BD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 338,
+        "fields": {
+            "symbol": "GLIF",
+            "name": "AGFIQ GLOBAL INFRASTRUCTURE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 339,
+        "fields": {
+            "symbol": "GLOP-B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 340,
+        "fields": {
+            "symbol": "GLTR",
+            "name": "ABERDEEN STANDARD PHYSICAL P"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 341,
+        "fields": {
+            "symbol": "GMAN",
+            "name": "GS MOTIF MANUFACT REVOLUTION"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 342,
+        "fields": {
+            "symbol": "GMO",
+            "name": "GENERAL MOLY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 343,
+        "fields": {
+            "symbol": "GNE",
+            "name": "GENIE ENERGY LTD-B"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 344,
+        "fields": {
+            "symbol": "GNOM",
+            "name": "GLOBAL X GENOMICS & BIOTECHN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 345,
+        "fields": {
+            "symbol": "GNW",
+            "name": "GENWORTH FINANCIAL INC-CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 346,
+        "fields": {
+            "symbol": "GOLF",
+            "name": "ACUSHNET HOLDINGS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 347,
+        "fields": {
+            "symbol": "GPAQ",
+            "name": "GORDON POINTE ACQUISITION CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 348,
+        "fields": {
+            "symbol": "GPN",
+            "name": "GLOBAL PAYMENTS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 349,
+        "fields": {
+            "symbol": "GRAF",
+            "name": "GRAF INDUSTRIAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 350,
+        "fields": {
+            "symbol": "GRI",
+            "name": "COHEN & STEERS GLOBAL REALTY"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 351,
+        "fields": {
+            "symbol": "GRPN",
+            "name": "GROUPON INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 352,
+        "fields": {
+            "symbol": "GRX-B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 353,
+        "fields": {
+            "symbol": "GSAH=",
+            "name": "GS ACQUISITION HOLDINGS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 354,
+        "fields": {
+            "symbol": "GSHD",
+            "name": "GOOSEHEAD INSURANCE INC -A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 355,
+        "fields": {
+            "symbol": "GSP",
+            "name": "IPATH GSCI TOTAL RETURN INDX"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 356,
+        "fields": {
+            "symbol": "GTEC",
+            "name": "GREENLAND TECHNOLOGIES HOLDI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 357,
+        "fields": {
+            "symbol": "GTS",
+            "name": "TRIPLE-S MANAGEMENT CORP-B"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 358,
+        "fields": {
+            "symbol": "GUSH",
+            "name": "DRX DLY OIL & GAS BULL 3X"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 359,
+        "fields": {
+            "symbol": "GWB",
+            "name": "GREAT WESTERN BANCORP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 360,
+        "fields": {
+            "symbol": "GXG",
+            "name": "GLOBAL X MSCI COLOMBIA ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 361,
+        "fields": {
+            "symbol": "HA",
+            "name": "HAWAIIAN HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 362,
+        "fields": {
+            "symbol": "HALO",
+            "name": "HALOZYME THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 363,
+        "fields": {
+            "symbol": "HAYN",
+            "name": "HAYNES INTERNATIONAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 364,
+        "fields": {
+            "symbol": "HBNC",
+            "name": "HORIZON BANCORP INC/IN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 365,
+        "fields": {
+            "symbol": "HCC",
+            "name": "WARRIOR MET COAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 366,
+        "fields": {
+            "symbol": "HCM",
+            "name": "HUTCHISON CHINA MEDITECH-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 367,
+        "fields": {
+            "symbol": "HDG",
+            "name": "PROSHARES HEDGE REPLICAT ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 368,
+        "fields": {
+            "symbol": "HEBT",
+            "name": "HEBRON TECHNOLOGY CO LTD - A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 369,
+        "fields": {
+            "symbol": "HEPA",
+            "name": "HEPION PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 370,
+        "fields": {
+            "symbol": "HEWL",
+            "name": "ISHARES CURR HEDG MSCI SWITZ"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 371,
+        "fields": {
+            "symbol": "HFRO",
+            "name": "HIGHLAND INCOME FUND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 372,
+        "fields": {
+            "symbol": "HHC",
+            "name": "HOWARD HUGHES CORP/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 373,
+        "fields": {
+            "symbol": "HIE",
+            "name": "MILLER/HOWARD HIGH INCOME EQ"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 374,
+        "fields": {
+            "symbol": "HIPS",
+            "name": "GRANITESHARES HIPS US HIGH I"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 375,
+        "fields": {
+            "symbol": "HLAL",
+            "name": "WAHED FTSE USA SHARIAH ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 376,
+        "fields": {
+            "symbol": "HMC",
+            "name": "HONDA MOTOR CO LTD-SPONS ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 377,
+        "fields": {
+            "symbol": "HMSY",
+            "name": "HMS HOLDINGS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 378,
+        "fields": {
+            "symbol": "HOFT",
+            "name": "HOOKER FURNITURE CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 379,
+        "fields": {
+            "symbol": "HONE",
+            "name": "HARBORONE BANCORP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 380,
+        "fields": {
+            "symbol": "HPF",
+            "name": "JOHN HANCOCK PFD INCOME II"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 381,
+        "fields": {
+            "symbol": "HR",
+            "name": "HEALTHCARE REALTY TRUST INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 382,
+        "fields": {
+            "symbol": "HSACU",
+            "name": "HEALTH SCIENCES ACQUISITIONS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 383,
+        "fields": {
+            "symbol": "HSON",
+            "name": "HUDSON GLOBAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 384,
+        "fields": {
+            "symbol": "HTA",
+            "name": "HEALTHCARE TRUST OF AME-CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 385,
+        "fields": {
+            "symbol": "HTH",
+            "name": "HILLTOP HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 386,
+        "fields": {
+            "symbol": "HUBS",
+            "name": "HUBSPOT INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 387,
+        "fields": {
+            "symbol": "HVBC",
+            "name": "HV BANCORP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 388,
+        "fields": {
+            "symbol": "HY",
+            "name": "HYSTER-YALE MATERIALS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 389,
+        "fields": {
+            "symbol": "HYGH",
+            "name": "ISHARES INT RATE HEDG HY ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 390,
+        "fields": {
+            "symbol": "HYND",
+            "name": "WISDOMTREE WISDOMTREE NEGATI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 391,
+        "fields": {
+            "symbol": "HZO",
+            "name": "MARINEMAX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 392,
+        "fields": {
+            "symbol": "IART",
+            "name": "INTEGRA LIFESCIENCES HOLDING"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 393,
+        "fields": {
+            "symbol": "IBDC",
+            "name": "ISHARES IBONDS MAR 2020 TERM"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 394,
+        "fields": {
+            "symbol": "IBDS",
+            "name": "ISHRS IBNDS DEC 27 CORP ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 395,
+        "fields": {
+            "symbol": "IBKCN",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 396,
+        "fields": {
+            "symbol": "IBMN",
+            "name": "ISHARES IBONDS DEC 2025 TERM"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 397,
+        "fields": {
+            "symbol": "ICAD",
+            "name": "ICAD INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 398,
+        "fields": {
+            "symbol": "ICLK",
+            "name": "ICLICK INTERACTIVE ASIA-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 399,
+        "fields": {
+            "symbol": "ICVT",
+            "name": "ISHARES CONVERTIBLE BOND ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 400,
+        "fields": {
+            "symbol": "IDLV",
+            "name": "INVESCO S&P INTERNATIONAL DE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 401,
+        "fields": {
+            "symbol": "IDV",
+            "name": "ISHARES INTERNATIONAL SELECT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 402,
+        "fields": {
+            "symbol": "IEDI",
+            "name": "ISHARES EVOLVED US DISCRETIO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 403,
+        "fields": {
+            "symbol": "IEMV",
+            "name": "INVESCO EMRG MRKTS DEBT VAL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 404,
+        "fields": {
+            "symbol": "IFEU",
+            "name": "ISHARES EUROPE DEVELOPED REA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 405,
+        "fields": {
+            "symbol": "IFS",
+            "name": "INTERCORP FINANCIAL SERVICES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 406,
+        "fields": {
+            "symbol": "IGHG",
+            "name": "PROSHARES IG HEDGED"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 407,
+        "fields": {
+            "symbol": "IGR",
+            "name": "CBRE CLARION GL R/E INCOME F"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 408,
+        "fields": {
+            "symbol": "IHE",
+            "name": "ISHARES US PHARMACEUTICALS E"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 409,
+        "fields": {
+            "symbol": "IHYV",
+            "name": "INVESCO CORP INC VALUE ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 410,
+        "fields": {
+            "symbol": "IIPR",
+            "name": "INNOVATIVE INDUSTRIAL PROPER"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 411,
+        "fields": {
+            "symbol": "IKNX",
+            "name": "IKONICS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 412,
+        "fields": {
+            "symbol": "IMFD",
+            "name": "INVESCO MULTI-FACTOR DEFENSI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 413,
+        "fields": {
+            "symbol": "IMO",
+            "name": "IMPERIAL OIL LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 414,
+        "fields": {
+            "symbol": "IMXI",
+            "name": "INTERNATIONAL MONEY EXPRESS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 415,
+        "fields": {
+            "symbol": "INDA",
+            "name": "ISHARES MSCI INDIA ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 416,
+        "fields": {
+            "symbol": "INFU",
+            "name": "INFUSYSTEM HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 417,
+        "fields": {
+            "symbol": "INN-E",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 418,
+        "fields": {
+            "symbol": "INSI",
+            "name": "INSIGHT SELECT INCOME FUND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 419,
+        "fields": {
+            "symbol": "INTC",
+            "name": "INTEL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 420,
+        "fields": {
+            "symbol": "INWK",
+            "name": "INNERWORKINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 421,
+        "fields": {
+            "symbol": "IPAC",
+            "name": "ISHARES CORE MSCI PACIFIC ET"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 422,
+        "fields": {
+            "symbol": "IPHS",
+            "name": "INNOPHOS HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 423,
+        "fields": {
+            "symbol": "IQDG",
+            "name": "WISDOMTREE INTL QLTY DVD GRW"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 424,
+        "fields": {
+            "symbol": "IRDM",
+            "name": "IRIDIUM COMMUNICATIONS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 425,
+        "fields": {
+            "symbol": "IRT",
+            "name": "INDEPENDENCE REALTY TRUST IN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 426,
+        "fields": {
+            "symbol": "ISEM",
+            "name": "INVESCO RAFI STRATEGIC EMERG"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 427,
+        "fields": {
+            "symbol": "ISTB",
+            "name": "ISHARES CORE 1-5 YEAR USD BO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 428,
+        "fields": {
+            "symbol": "ITI",
+            "name": "ITERIS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 429,
+        "fields": {
+            "symbol": "ITUB",
+            "name": "ITAU UNIBANCO H-SPON PRF ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 430,
+        "fields": {
+            "symbol": "IVE",
+            "name": "ISHARES S&P 500 VALUE ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 431,
+        "fields": {
+            "symbol": "IVR-C",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 432,
+        "fields": {
+            "symbol": "IWN",
+            "name": "ISHARES RUSSELL 2000 VALUE E"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 433,
+        "fields": {
+            "symbol": "IXG",
+            "name": "ISHARES GLOBAL FINANCIALS ET"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 434,
+        "fields": {
+            "symbol": "IYH",
+            "name": "ISHARES U.S. HEALTHCARE ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 435,
+        "fields": {
+            "symbol": "IZEA",
+            "name": "IZEA WORLDWIDE INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 436,
+        "fields": {
+            "symbol": "JAX",
+            "name": "J ALEXANDER'S HOLDINGS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 437,
+        "fields": {
+            "symbol": "JBT",
+            "name": "JOHN BEAN TECHNOLOGIES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 438,
+        "fields": {
+            "symbol": "JCTCF",
+            "name": "JEWETT-CAMERON TRADING LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 439,
+        "fields": {
+            "symbol": "JEMD",
+            "name": "NUVEEN EMERGING MARKETS DEBT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 440,
+        "fields": {
+            "symbol": "JG",
+            "name": "AURORA MOBILE LTD-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 441,
+        "fields": {
+            "symbol": "JHMC",
+            "name": "JOHN HANCOCK MULT FACT CONSU"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 442,
+        "fields": {
+            "symbol": "JHMU",
+            "name": "JOHN HANCOCK MULT FACT UTIL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 443,
+        "fields": {
+            "symbol": "JJG",
+            "name": "IPATH SERIES B BLOOMBERG GRA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 444,
+        "fields": {
+            "symbol": "JKF",
+            "name": "ISHARES MORNINGSTAR LARGE-CA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 445,
+        "fields": {
+            "symbol": "JLS",
+            "name": "NUVEEN MORTGAGE & INCOME"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 446,
+        "fields": {
+            "symbol": "JMPD",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 447,
+        "fields": {
+            "symbol": "JNUG",
+            "name": "DIREXION DLY JR GOLD BULL 3X"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 448,
+        "fields": {
+            "symbol": "JPEM",
+            "name": "JPM DIVERSIFIED RET EM EQUIT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 449,
+        "fields": {
+            "symbol": "JPM-A*",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 450,
+        "fields": {
+            "symbol": "JPN",
+            "name": "XTRACKERS JAPAN JPX-NIKKEI 4"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 451,
+        "fields": {
+            "symbol": "JRI",
+            "name": "NUVEEN REAL ASST INC & GR FD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 452,
+        "fields": {
+            "symbol": "JT",
+            "name": "JIANPU TECHNOLOGY INC- ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 453,
+        "fields": {
+            "symbol": "JYNT",
+            "name": "JOINT CORP/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 454,
+        "fields": {
+            "symbol": "KB",
+            "name": "KB FINANCIAL GROUP INC-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 455,
+        "fields": {
+            "symbol": "KBSF",
+            "name": "KBS FASHION GROUP LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 456,
+        "fields": {
+            "symbol": "KDMN",
+            "name": "KADMON HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 457,
+        "fields": {
+            "symbol": "KEP",
+            "name": "KOREA ELEC POWER CORP-SP ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 458,
+        "fields": {
+            "symbol": "KF",
+            "name": "KOREA FUND INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 459,
+        "fields": {
+            "symbol": "KIDS",
+            "name": "ORTHOPEDIATRICS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 460,
+        "fields": {
+            "symbol": "KIRK",
+            "name": "KIRKLAND'S INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 461,
+        "fields": {
+            "symbol": "KLXE",
+            "name": "KLX ENERGY SERVICES HOLDING"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 462,
+        "fields": {
+            "symbol": "KN",
+            "name": "KNOWLES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 463,
+        "fields": {
+            "symbol": "KO",
+            "name": "COCA-COLA CO/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 464,
+        "fields": {
+            "symbol": "KOPN",
+            "name": "KOPIN CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 465,
+        "fields": {
+            "symbol": "KREF",
+            "name": "KKR REAL ESTATE FINANCE TRUS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 466,
+        "fields": {
+            "symbol": "KRYS",
+            "name": "KRYSTAL BIOTECH INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 467,
+        "fields": {
+            "symbol": "KTF",
+            "name": "DWS MUNICIPAL INCOME TRUST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 468,
+        "fields": {
+            "symbol": "KW",
+            "name": "KENNEDY-WILSON HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 469,
+        "fields": {
+            "symbol": "LABD",
+            "name": "DRX DLY S&P BIOTECH BEAR 3X"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 470,
+        "fields": {
+            "symbol": "LAKE",
+            "name": "LAKELAND INDUSTRIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 471,
+        "fields": {
+            "symbol": "LAZ",
+            "name": "LAZARD LTD-CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 472,
+        "fields": {
+            "symbol": "LBTYA",
+            "name": "LIBERTY GLOBAL PLC-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 473,
+        "fields": {
+            "symbol": "LCNB",
+            "name": "LCNB CORPORATION"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 474,
+        "fields": {
+            "symbol": "LDUR",
+            "name": "PIMCO ENHANCED LOW DURATION"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 475,
+        "fields": {
+            "symbol": "LEGR",
+            "name": "FIRST TRUST INDXX INNOVATIVE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 476,
+        "fields": {
+            "symbol": "LFAC",
+            "name": "LF CAPITAL ACQUISITION COR-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 477,
+        "fields": {
+            "symbol": "LGF.A",
+            "name": "LIONS GATE ENTERTAINMENT-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 478,
+        "fields": {
+            "symbol": "LHC",
+            "name": "LEO HOLDINGS CORP -A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 479,
+        "fields": {
+            "symbol": "LINC",
+            "name": "LINCOLN EDUCATIONAL SERVICES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 480,
+        "fields": {
+            "symbol": "LJPC",
+            "name": "LA JOLLA PHARMACEUTICAL CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 481,
+        "fields": {
+            "symbol": "LLNW",
+            "name": "LIMELIGHT NETWORKS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 482,
+        "fields": {
+            "symbol": "LMLB",
+            "name": "ETRACS MNTH PAY 2XL WF MLP-B"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 483,
+        "fields": {
+            "symbol": "LN",
+            "name": "LINE CORP-SPONSORED ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 484,
+        "fields": {
+            "symbol": "LOACR",
+            "name": "LONGEVITY ACQUISITION CO-RTS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 485,
+        "fields": {
+            "symbol": "LOMA",
+            "name": "LOMA NEGRA CIA IND-SPON ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 486,
+        "fields": {
+            "symbol": "LOWC",
+            "name": "SPDR MSCI ACWI LOW CARBON"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 487,
+        "fields": {
+            "symbol": "LPX",
+            "name": "LOUISIANA-PACIFIC CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 488,
+        "fields": {
+            "symbol": "LRN",
+            "name": "K12 INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 489,
+        "fields": {
+            "symbol": "LSXMK",
+            "name": "LIBERTY MEDIA COR-SIRIUSXM C"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 490,
+        "fields": {
+            "symbol": "LTS",
+            "name": "LADENBURG THALMANN FINANCIAL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 491,
+        "fields": {
+            "symbol": "LVGO",
+            "name": "LIVONGO HEALTH INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 492,
+        "fields": {
+            "symbol": "LWAY",
+            "name": "LIFEWAY FOODS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 493,
+        "fields": {
+            "symbol": "LYL",
+            "name": "DRAGON VICTORY INTERNATIONAL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 494,
+        "fields": {
+            "symbol": "MACK",
+            "name": "MERRIMACK PHARMACEUTICALS IN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 495,
+        "fields": {
+            "symbol": "MARA",
+            "name": "MARATHON PATENT GROUP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 496,
+        "fields": {
+            "symbol": "MAYS",
+            "name": "MAYS (J.W.) INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 497,
+        "fields": {
+            "symbol": "MBRX",
+            "name": "MOLECULIN BIOTECH INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 498,
+        "fields": {
+            "symbol": "MCC",
+            "name": "MEDLEY CAPITAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 499,
+        "fields": {
+            "symbol": "MCK",
+            "name": "MCKESSON CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 500,
+        "fields": {
+            "symbol": "MCX",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 501,
+        "fields": {
+            "symbol": "MDIV",
+            "name": "FT MULTI-ASSET DIVERS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 502,
+        "fields": {
+            "symbol": "MDRX",
+            "name": "ALLSCRIPTS HEALTHCARE SOLUTI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 503,
+        "fields": {
+            "symbol": "MEDP",
+            "name": "MEDPACE HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 504,
+        "fields": {
+            "symbol": "MESO",
+            "name": "MESOBLAST LTD- SPON ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 505,
+        "fields": {
+            "symbol": "MFAC=",
+            "name": "MEGALITH FINANCIAL ACQUISITI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 506,
+        "fields": {
+            "symbol": "MFM",
+            "name": "MFS MUNICIPAL INCOME TRUST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 507,
+        "fields": {
+            "symbol": "MGC",
+            "name": "VANGUARD MEGA CAP ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 508,
+        "fields": {
+            "symbol": "MGP",
+            "name": "MGM GROWTH PROPERTIES LLC-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 509,
+        "fields": {
+            "symbol": "MH-A",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 510,
+        "fields": {
+            "symbol": "MHLD",
+            "name": "MAIDEN HOLDINGS LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 511,
+        "fields": {
+            "symbol": "MIDZ",
+            "name": "DIREXION DLY MID CAP BEAR 3X"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 512,
+        "fields": {
+            "symbol": "MINT",
+            "name": "PIMCO ENHANCED SHORT MATURIT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 513,
+        "fields": {
+            "symbol": "MIY",
+            "name": "BLACKROCK MUNIYIELD MI QUALI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 514,
+        "fields": {
+            "symbol": "MLCO",
+            "name": "MELCO RESORTS & ENTERT-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 515,
+        "fields": {
+            "symbol": "MLPB",
+            "name": "ETRACS ALERIAN INFRAST SER B"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 516,
+        "fields": {
+            "symbol": "MLR",
+            "name": "MILLER INDUSTRIES INC/TENN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 517,
+        "fields": {
+            "symbol": "MMLP",
+            "name": "MARTIN MIDSTREAM PARTNERS LP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 518,
+        "fields": {
+            "symbol": "MN",
+            "name": "MANNING & NAPIER INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 519,
+        "fields": {
+            "symbol": "MNLO",
+            "name": "MENLO THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 520,
+        "fields": {
+            "symbol": "MNTX",
+            "name": "MANITEX INTERNATIONAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 521,
+        "fields": {
+            "symbol": "MOGU",
+            "name": "MOGU INC-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 522,
+        "fields": {
+            "symbol": "MOS",
+            "name": "MOSAIC CO/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 523,
+        "fields": {
+            "symbol": "MPAA",
+            "name": "MOTORCAR PARTS OF AMERICA IN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 524,
+        "fields": {
+            "symbol": "MQY",
+            "name": "BLACKROCK MUNIYIELD QUALITY"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 525,
+        "fields": {
+            "symbol": "MRIC",
+            "name": "MRI INTERVENTIONS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 526,
+        "fields": {
+            "symbol": "MRTN",
+            "name": "MARTEN TRANSPORT LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 527,
+        "fields": {
+            "symbol": "MS-K",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 528,
+        "fields": {
+            "symbol": "MSG",
+            "name": "MADISON SQUARE GARDEN CO- A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 529,
+        "fields": {
+            "symbol": "MTB",
+            "name": "M & T BANK CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 530,
+        "fields": {
+            "symbol": "MTFBW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 531,
+        "fields": {
+            "symbol": "MTR",
+            "name": "MESA ROYALTY TRUST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 532,
+        "fields": {
+            "symbol": "MTZ",
+            "name": "MASTEC INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 533,
+        "fields": {
+            "symbol": "MUH",
+            "name": "BLACKROCK MUNIHOLDINGS FD II"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 534,
+        "fields": {
+            "symbol": "MVBF",
+            "name": "MVB FINANCIAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 535,
+        "fields": {
+            "symbol": "MWK",
+            "name": "MOHAWK GROUP HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 536,
+        "fields": {
+            "symbol": "MYC",
+            "name": "BLACKROCK MUNIYIELD CALI FD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 537,
+        "fields": {
+            "symbol": "MYO",
+            "name": "MYOMO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 538,
+        "fields": {
+            "symbol": "NAC",
+            "name": "NUVEEN CA QUAL MUNI INC FD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 539,
+        "fields": {
+            "symbol": "NAT",
+            "name": "NORDIC AMERICAN TANKERS LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 540,
+        "fields": {
+            "symbol": "NBEV",
+            "name": "NEW AGE BEVERAGES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 541,
+        "fields": {
+            "symbol": "NBRV",
+            "name": "NABRIVA THERAPEUTICS PLC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 542,
+        "fields": {
+            "symbol": "NCMI",
+            "name": "NATIONAL CINEMEDIA INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 543,
+        "fields": {
+            "symbol": "NDLS",
+            "name": "NOODLES & CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 544,
+        "fields": {
+            "symbol": "NEBUW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 545,
+        "fields": {
+            "symbol": "NEO",
+            "name": "NEOGENOMICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 546,
+        "fields": {
+            "symbol": "NESR",
+            "name": "NATIONAL ENERGY SERVICES REU"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 547,
+        "fields": {
+            "symbol": "NEWR",
+            "name": "NEW RELIC INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 548,
+        "fields": {
+            "symbol": "NFC=",
+            "name": "NEW FRONTIER CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 549,
+        "fields": {
+            "symbol": "NFRA",
+            "name": "FLEXSHARES STOXX GLOBAL BROA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 550,
+        "fields": {
+            "symbol": "NGHCZ",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 551,
+        "fields": {
+            "symbol": "NHA",
+            "name": "NUVEEN MUNI 2021 TGT TRM FD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 552,
+        "fields": {
+            "symbol": "NIB",
+            "name": "IPATH BLOOMBERG COCOA SUBIND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 553,
+        "fields": {
+            "symbol": "NIU",
+            "name": "NIU TECHNOLOGIES-SPONS ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 554,
+        "fields": {
+            "symbol": "NLNK",
+            "name": "NEWLINK GENETICS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 555,
+        "fields": {
+            "symbol": "NM",
+            "name": "NAVIOS MARITIME HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 556,
+        "fields": {
+            "symbol": "NMK-C",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 557,
+        "fields": {
+            "symbol": "NNA",
+            "name": "NAVIOS MARITIME ACQUISITION"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 558,
+        "fields": {
+            "symbol": "NOAH",
+            "name": "NOAH HOLDINGS LTD-SPON ADS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 559,
+        "fields": {
+            "symbol": "NOV",
+            "name": "NATIONAL OILWELL VARCO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 560,
+        "fields": {
+            "symbol": "NPN",
+            "name": "NUVEEN PA MUNI VALUE FD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 561,
+        "fields": {
+            "symbol": "NRGU",
+            "name": "MICROSECTORS US BIG OIL 3X"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 562,
+        "fields": {
+            "symbol": "NRZ-A",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 563,
+        "fields": {
+            "symbol": "NSCO+",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 564,
+        "fields": {
+            "symbol": "NSTG",
+            "name": "NANOSTRING TECHNOLOGIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 565,
+        "fields": {
+            "symbol": "NTEST.B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 566,
+        "fields": {
+            "symbol": "NTP",
+            "name": "NAM TAI PROPERTY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 567,
+        "fields": {
+            "symbol": "NTZ",
+            "name": "NATUZZI SPA-SP ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 568,
+        "fields": {
+            "symbol": "NULG",
+            "name": "NUVEEN ESG LARGE-CAP GROWTH"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 569,
+        "fields": {
+            "symbol": "NUSA",
+            "name": "NUVEEN ENHANCED YIELD 1-5 YE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 570,
+        "fields": {
+            "symbol": "NVEE",
+            "name": "NV5 GLOBAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 571,
+        "fields": {
+            "symbol": "NVST",
+            "name": "ENVISTA HOLDINGS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 572,
+        "fields": {
+            "symbol": "NWLI",
+            "name": "NATIONAL WESTERN LIFE GROU-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 573,
+        "fields": {
+            "symbol": "NXN",
+            "name": "NUVEEN NY SEL TX-FR INC PORT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 574,
+        "fields": {
+            "symbol": "NYCB",
+            "name": "NEW YORK COMMUNITY BANCORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 575,
+        "fields": {
+            "symbol": "NYNY",
+            "name": "EMPIRE RESORTS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 576,
+        "fields": {
+            "symbol": "OAK-B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 577,
+        "fields": {
+            "symbol": "OCC",
+            "name": "OPTICAL CABLE CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 578,
+        "fields": {
+            "symbol": "OCUL",
+            "name": "OCULAR THERAPEUTIX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 579,
+        "fields": {
+            "symbol": "OFC",
+            "name": "CORPORATE OFFICE PROPERTIES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 580,
+        "fields": {
+            "symbol": "OFSSL",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 581,
+        "fields": {
+            "symbol": "OI",
+            "name": "OWENS-ILLINOIS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 582,
+        "fields": {
+            "symbol": "OILX",
+            "name": "ETRACS S&P GSCI CRUDE OIL TO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 583,
+        "fields": {
+            "symbol": "OLP",
+            "name": "ONE LIBERTY PROPERTIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 584,
+        "fields": {
+            "symbol": "OMN",
+            "name": "OMNOVA SOLUTIONS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 585,
+        "fields": {
+            "symbol": "ONE",
+            "name": "ONESMART INTERNATIONAL -ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 586,
+        "fields": {
+            "symbol": "OOMA",
+            "name": "OOMA INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 587,
+        "fields": {
+            "symbol": "OPI",
+            "name": "OFFICE PROPERTIES INCOME TRU"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 588,
+        "fields": {
+            "symbol": "OPTT",
+            "name": "OCEAN POWER TECHNOLOGIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 589,
+        "fields": {
+            "symbol": "ORG",
+            "name": "THE ORGANICS ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 590,
+        "fields": {
+            "symbol": "ORTX",
+            "name": "ORCHARD THERAPEUTICS PLC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 591,
+        "fields": {
+            "symbol": "OSMT",
+            "name": "OSMOTICA PHARMACEUTICALS PLC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 592,
+        "fields": {
+            "symbol": "OTLK",
+            "name": "OUTLOOK THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 593,
+        "fields": {
+            "symbol": "OVF",
+            "name": "OVERLAY SHARES FOREIGN EQUIT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 594,
+        "fields": {
+            "symbol": "OXFD",
+            "name": "OXFORD IMMUNOTEC GLOBAL PLC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 595,
+        "fields": {
+            "symbol": "OYST",
+            "name": "OYSTER POINT PHARMA INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 596,
+        "fields": {
+            "symbol": "PACB",
+            "name": "PACIFIC BIOSCIENCES OF CALIF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 597,
+        "fields": {
+            "symbol": "PAGS",
+            "name": "PAGSEGURO DIGITAL LTD-CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 598,
+        "fields": {
+            "symbol": "PARR",
+            "name": "PAR PACIFIC HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 599,
+        "fields": {
+            "symbol": "PAYC",
+            "name": "PAYCOM SOFTWARE INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 600,
+        "fields": {
+            "symbol": "PBD",
+            "name": "INVESCO GLOBAL CLEAN ENERGY"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 601,
+        "fields": {
+            "symbol": "PBI-B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 602,
+        "fields": {
+            "symbol": "PBT",
+            "name": "PERMIAN BASIN ROYALTY TRUST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 603,
+        "fields": {
+            "symbol": "PCF",
+            "name": "HIGH INCOME SECURITIES FUND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 604,
+        "fields": {
+            "symbol": "PCH",
+            "name": "POTLATCHDELTIC CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 605,
+        "fields": {
+            "symbol": "PCTY",
+            "name": "PAYLOCITY HOLDING CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 606,
+        "fields": {
+            "symbol": "PDEX",
+            "name": "PRO-DEX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 607,
+        "fields": {
+            "symbol": "PDT",
+            "name": "JOHN HAN PREMIUM DIVIDEND FD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 608,
+        "fields": {
+            "symbol": "PED",
+            "name": "PEDEVCO CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 609,
+        "fields": {
+            "symbol": "PEK",
+            "name": "VANECK CHINCA AMC CSI 300"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 610,
+        "fields": {
+            "symbol": "PETZ",
+            "name": "TDH HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 611,
+        "fields": {
+            "symbol": "PFFA",
+            "name": "Virtus InfraCap US PFD ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 612,
+        "fields": {
+            "symbol": "PFIN",
+            "name": "P & F INDUSTRIES -CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 613,
+        "fields": {
+            "symbol": "PFS",
+            "name": "PROVIDENT FINANCIAL SERVICES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 614,
+        "fields": {
+            "symbol": "PGM",
+            "name": "IPATH SERIES B BBG PLATINUM"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 615,
+        "fields": {
+            "symbol": "PHAS",
+            "name": "PHASEBIO PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 616,
+        "fields": {
+            "symbol": "PHI",
+            "name": "PLDT INC-SPON ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 617,
+        "fields": {
+            "symbol": "PHX",
+            "name": "PANHANDLE OIL AND GAS INC-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 618,
+        "fields": {
+            "symbol": "PID",
+            "name": "INVESCO INTERNATIONAL DIVIDE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 619,
+        "fields": {
+            "symbol": "PINS",
+            "name": "PINTEREST INC- CLASS A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 620,
+        "fields": {
+            "symbol": "PJP",
+            "name": "INVESCO DYNAMIC PHARMACEUTIC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 621,
+        "fields": {
+            "symbol": "PKI",
+            "name": "PERKINELMER INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 622,
+        "fields": {
+            "symbol": "PLBC",
+            "name": "PLUMAS BANCORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 623,
+        "fields": {
+            "symbol": "PLNT",
+            "name": "PLANET FITNESS INC - CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 624,
+        "fields": {
+            "symbol": "PLXP",
+            "name": "PLX PHARMA INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 625,
+        "fields": {
+            "symbol": "PML",
+            "name": "PIMCO MUNICIPAL INCOME FD II"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 626,
+        "fields": {
+            "symbol": "PNBK",
+            "name": "PATRIOT NATIONAL BANCORP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 627,
+        "fields": {
+            "symbol": "PNOV",
+            "name": "INNOVATOR S&P POWER BUFFER-N"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 628,
+        "fields": {
+            "symbol": "POL",
+            "name": "POLYONE CORPORATION"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 629,
+        "fields": {
+            "symbol": "PPBI",
+            "name": "PACIFIC PREMIER BANCORP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 630,
+        "fields": {
+            "symbol": "PPLC",
+            "name": "PORTFOLIO PLUS S&P 500 ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 631,
+        "fields": {
+            "symbol": "PQG",
+            "name": "PQ GROUP HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 632,
+        "fields": {
+            "symbol": "PRE-G",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 633,
+        "fields": {
+            "symbol": "PRH",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 634,
+        "fields": {
+            "symbol": "PRLB",
+            "name": "PROTO LABS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 635,
+        "fields": {
+            "symbol": "PRPL",
+            "name": "PURPLE INNOVATION INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 636,
+        "fields": {
+            "symbol": "PRTO",
+            "name": "PROTEON THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 637,
+        "fields": {
+            "symbol": "PSA-C",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 638,
+        "fields": {
+            "symbol": "PSB",
+            "name": "PS BUSINESS PARKS INC/CA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 639,
+        "fields": {
+            "symbol": "PSCF",
+            "name": "INVESCO S&P SMALLCAP FINANCI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 640,
+        "fields": {
+            "symbol": "PSF",
+            "name": "COHEN & STEERS SELECT PREFER"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 641,
+        "fields": {
+            "symbol": "PSMM",
+            "name": "INVESCO MODERATELY CONSERVAT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 642,
+        "fields": {
+            "symbol": "PSTI",
+            "name": "PLURISTEM THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 643,
+        "fields": {
+            "symbol": "PTCT",
+            "name": "PTC THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 644,
+        "fields": {
+            "symbol": "PTLC",
+            "name": "PACER TRENDPILOT US LARGE CA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 645,
+        "fields": {
+            "symbol": "PTVCB",
+            "name": "PROTECTIVE INSURANCE CORP- B"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 646,
+        "fields": {
+            "symbol": "PUTW",
+            "name": "WISDOMTREE CBOE S&P 500 PTWT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 647,
+        "fields": {
+            "symbol": "PVT+",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 648,
+        "fields": {
+            "symbol": "PWS",
+            "name": "PACER WEALTHSHIELD ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 649,
+        "fields": {
+            "symbol": "PXQ",
+            "name": "INVESCO DYNAMIC NETWORKING E"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 650,
+        "fields": {
+            "symbol": "PZA",
+            "name": "INVESCO NATIONAL AMT-FREE MU"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 651,
+        "fields": {
+            "symbol": "QAI",
+            "name": "IQ HEDGE MULTI-STRAT TRACKER"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 652,
+        "fields": {
+            "symbol": "QDF",
+            "name": "FLEXSHARES QUALITY DIVIDEND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 653,
+        "fields": {
+            "symbol": "QGRO",
+            "name": "AMERICAN CENTURY STOXX US QL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 654,
+        "fields": {
+            "symbol": "QLV",
+            "name": "FLEXSHARES US QUALITY LOW VO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 655,
+        "fields": {
+            "symbol": "QQQE",
+            "name": "DIREXION NASDAQ-100 EQ WEIGH"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 656,
+        "fields": {
+            "symbol": "QTEC",
+            "name": "FIRST TRUST NASDQ 100 TECH I"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 657,
+        "fields": {
+            "symbol": "QUAD",
+            "name": "QUAD GRAPHICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 658,
+        "fields": {
+            "symbol": "QWLD",
+            "name": "SPDR MSCI WORLD STRATEGICFAC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 659,
+        "fields": {
+            "symbol": "RAMP",
+            "name": "LIVERAMP HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 660,
+        "fields": {
+            "symbol": "RBBN",
+            "name": "RIBBON COMMUNICATIONS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 661,
+        "fields": {
+            "symbol": "RC",
+            "name": "READY CAPITAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 662,
+        "fields": {
+            "symbol": "RCL",
+            "name": "ROYAL CARIBBEAN CRUISES LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 663,
+        "fields": {
+            "symbol": "RDI",
+            "name": "READING INTERNATIONAL INC-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 664,
+        "fields": {
+            "symbol": "RDWR",
+            "name": "RADWARE LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 665,
+        "fields": {
+            "symbol": "REET",
+            "name": "ISHARES GLOBAL REIT ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 666,
+        "fields": {
+            "symbol": "RELL",
+            "name": "RICHARDSON ELEC LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 667,
+        "fields": {
+            "symbol": "RES",
+            "name": "RPC INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 668,
+        "fields": {
+            "symbol": "REX",
+            "name": "REX AMERICAN RESOURCES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 669,
+        "fields": {
+            "symbol": "RF-B",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 670,
+        "fields": {
+            "symbol": "RFI",
+            "name": "COHEN & STEERS TOT RET RLTY"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 671,
+        "fields": {
+            "symbol": "RGLB",
+            "name": "INVESCO GLOBAL REVENUE ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 672,
+        "fields": {
+            "symbol": "RHI",
+            "name": "ROBERT HALF INTL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 673,
+        "fields": {
+            "symbol": "RILY",
+            "name": "B. RILEY FINANCIAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 674,
+        "fields": {
+            "symbol": "RING",
+            "name": "ISHARES MSCI GLOBAL GOLD MIN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 675,
+        "fields": {
+            "symbol": "RJZ",
+            "name": "ELEMENTS ROGERS METALS TR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 676,
+        "fields": {
+            "symbol": "RLY",
+            "name": "SPDR SSGA MULTI-ASSET REAL R"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 677,
+        "fields": {
+            "symbol": "RMG+",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 678,
+        "fields": {
+            "symbol": "RNDM",
+            "name": "DEVELOPED INT SELECT EQUITY"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 679,
+        "fields": {
+            "symbol": "RNR-C",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 680,
+        "fields": {
+            "symbol": "ROBT",
+            "name": "FIRST TRUST NASDAQ ARTIFICIA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 681,
+        "fields": {
+            "symbol": "ROL",
+            "name": "ROLLINS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 682,
+        "fields": {
+            "symbol": "ROST",
+            "name": "ROSS STORES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 683,
+        "fields": {
+            "symbol": "RPLA=",
+            "name": "REPLAY ACQUISITION CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 684,
+        "fields": {
+            "symbol": "RRGB",
+            "name": "RED ROBIN GOURMET BURGERS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 685,
+        "fields": {
+            "symbol": "RTH",
+            "name": "VANECK RETAIL ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 686,
+        "fields": {
+            "symbol": "RUBY",
+            "name": "RUBIUS THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 687,
+        "fields": {
+            "symbol": "RVLV",
+            "name": "REVOLVE GROUP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 688,
+        "fields": {
+            "symbol": "RWED",
+            "name": "DIREXION MSCI EM/DM"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 689,
+        "fields": {
+            "symbol": "RWLS",
+            "name": "DIREXION RUSSELL LARGE/SMALL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 690,
+        "fields": {
+            "symbol": "RXD",
+            "name": "PROSHARES ULTRASHORT HEALTH"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 691,
+        "fields": {
+            "symbol": "RYE",
+            "name": "INVESCO S&P 500 EQUAL WEIGHT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 692,
+        "fields": {
+            "symbol": "RYZZ",
+            "name": "RYZZ MNGED FUT STRAT PLUS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 693,
+        "fields": {
+            "symbol": "SACH",
+            "name": "SACHEM CAPITAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 694,
+        "fields": {
+            "symbol": "SAIC",
+            "name": "SCIENCE APPLICATIONS INTE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 695,
+        "fields": {
+            "symbol": "SAN",
+            "name": "BANCO SANTANDER SA-SPON ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 696,
+        "fields": {
+            "symbol": "SAVA",
+            "name": "CASSAVA SCIENCES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 697,
+        "fields": {
+            "symbol": "SBE",
+            "name": "SWITCHBACK ENERGY ACQUISIT-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 698,
+        "fields": {
+            "symbol": "SBLK",
+            "name": "STAR BULK CARRIERS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 699,
+        "fields": {
+            "symbol": "SBSI",
+            "name": "SOUTHSIDE BANCSHARES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 700,
+        "fields": {
+            "symbol": "SCD",
+            "name": "LMP CAPITAL AND INCOME FUND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 701,
+        "fields": {
+            "symbol": "SCHA",
+            "name": "SCHWAB US SMALL-CAP ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 702,
+        "fields": {
+            "symbol": "SCHK",
+            "name": "SCHWAB 1000 INDEX ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 703,
+        "fields": {
+            "symbol": "SCHW-C",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 704,
+        "fields": {
+            "symbol": "SCJ",
+            "name": "ISHARES MSCI JAPAN SMALL-CAP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 705,
+        "fields": {
+            "symbol": "SCPE=",
+            "name": "SC HEALTH CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 706,
+        "fields": {
+            "symbol": "SCZ",
+            "name": "ISHARES MSCI EAFE SMALL-CAP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 707,
+        "fields": {
+            "symbol": "SDIV",
+            "name": "GLOBAL X SUPERDIVIDEND ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 708,
+        "fields": {
+            "symbol": "SDY",
+            "name": "SPDR S&P DIVIDEND ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 709,
+        "fields": {
+            "symbol": "SEE",
+            "name": "SEALED AIR CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 710,
+        "fields": {
+            "symbol": "SENEA",
+            "name": "SENECA FOODS CORP - CL A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 711,
+        "fields": {
+            "symbol": "SFBC",
+            "name": "SOUND FINANCIAL BANCORP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 712,
+        "fields": {
+            "symbol": "SFST",
+            "name": "SOUTHERN FIRST BANCSHARES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 713,
+        "fields": {
+            "symbol": "SGC",
+            "name": "SUPERIOR GROUP OF COS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 714,
+        "fields": {
+            "symbol": "SGMS",
+            "name": "SCIENTIFIC GAMES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 715,
+        "fields": {
+            "symbol": "SHE",
+            "name": "SPDR GENDER DIVERSITY ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 716,
+        "fields": {
+            "symbol": "SHLO",
+            "name": "SHILOH INDUSTRIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 717,
+        "fields": {
+            "symbol": "SHW",
+            "name": "SHERWIN-WILLIAMS CO/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 718,
+        "fields": {
+            "symbol": "SIF",
+            "name": "SIFCO INDUSTRIES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 719,
+        "fields": {
+            "symbol": "SILV",
+            "name": "SILVERCREST METALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 720,
+        "fields": {
+            "symbol": "SITC-J*",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 721,
+        "fields": {
+            "symbol": "SJI",
+            "name": "SOUTH JERSEY INDUSTRIES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 722,
+        "fields": {
+            "symbol": "SKOR",
+            "name": "FLEXSHARES CREDIT-SCORED US"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 723,
+        "fields": {
+            "symbol": "SLCT",
+            "name": "SELECT BANCORP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 724,
+        "fields": {
+            "symbol": "SLMBP",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 725,
+        "fields": {
+            "symbol": "SLVO",
+            "name": "X-LINKS SLVR SHRS COVRD CALL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 726,
+        "fields": {
+            "symbol": "SMBK",
+            "name": "SMARTFINANCIAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 727,
+        "fields": {
+            "symbol": "SMHD",
+            "name": "ETRACS MON PAY 2X LEV US SM"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 728,
+        "fields": {
+            "symbol": "SMMCU",
+            "name": "SOUTH MOUNTAIN MERGER CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 729,
+        "fields": {
+            "symbol": "SMPL",
+            "name": "SIMPLY GOOD FOODS CO/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 730,
+        "fields": {
+            "symbol": "SNCA",
+            "name": "NEURALSTEM INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 731,
+        "fields": {
+            "symbol": "SNGX",
+            "name": "SOLIGENIX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 732,
+        "fields": {
+            "symbol": "SNOAW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 733,
+        "fields": {
+            "symbol": "SNX",
+            "name": "SYNNEX CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 734,
+        "fields": {
+            "symbol": "SOI",
+            "name": "SOLARIS OILFIELD INFRAST-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 735,
+        "fields": {
+            "symbol": "SON",
+            "name": "SONOCO PRODUCTS CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 736,
+        "fields": {
+            "symbol": "SOXS",
+            "name": "DIREXION DAILY SEMI BEAR 3X"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 737,
+        "fields": {
+            "symbol": "SPBO",
+            "name": "SPDR PORTFOLIO CORPORATE BON"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 738,
+        "fields": {
+            "symbol": "SPEM",
+            "name": "SPDR PORTFOLIO EMERGING MARK"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 739,
+        "fields": {
+            "symbol": "SPH",
+            "name": "SUBURBAN PROPANE PARTNERS LP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 740,
+        "fields": {
+            "symbol": "SPKEP",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 741,
+        "fields": {
+            "symbol": "SPMV",
+            "name": "INVESCO S&P 500 MINIMUM VARI"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 742,
+        "fields": {
+            "symbol": "SPSB",
+            "name": "SPDR PORT SHRT TRM CORP BND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 743,
+        "fields": {
+            "symbol": "SPVU",
+            "name": "INVESCO S&P 500 ENHANCED VAL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 744,
+        "fields": {
+            "symbol": "SPXU",
+            "name": "PROSH ULTRAPRO SHORT S&P 500"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 745,
+        "fields": {
+            "symbol": "SQBG",
+            "name": "SEQUENTIAL BRANDS GROUP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 746,
+        "fields": {
+            "symbol": "SRCE",
+            "name": "1ST SOURCE CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 747,
+        "fields": {
+            "symbol": "SRF",
+            "name": "CUSHING ENERGY INCOME FUND/T"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 748,
+        "fields": {
+            "symbol": "SRRK",
+            "name": "SCHOLAR ROCK HOLDING CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 749,
+        "fields": {
+            "symbol": "SSD",
+            "name": "SIMPSON MANUFACTURING CO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 750,
+        "fields": {
+            "symbol": "SSPKU",
+            "name": "SILVER SPIKE ACQUISITION COR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 751,
+        "fields": {
+            "symbol": "SSW-G",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 752,
+        "fields": {
+            "symbol": "STAG-C",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 753,
+        "fields": {
+            "symbol": "STFC",
+            "name": "STATE AUTO FINANCIAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 754,
+        "fields": {
+            "symbol": "STL-A",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 755,
+        "fields": {
+            "symbol": "STNLU",
+            "name": "SENTINEL ENERGY SERVICES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 756,
+        "fields": {
+            "symbol": "STRM",
+            "name": "STREAMLINE HEALTH SOLUTIONS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 757,
+        "fields": {
+            "symbol": "STWD",
+            "name": "STARWOOD PROPERTY TRUST INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 758,
+        "fields": {
+            "symbol": "SUMR",
+            "name": "SUMMER INFANT INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 759,
+        "fields": {
+            "symbol": "SUSC",
+            "name": "ISHARES ESG USD CORPORATE BO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 760,
+        "fields": {
+            "symbol": "SVVC",
+            "name": "FIRSTHAND TECHNOLOGY VALUE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 761,
+        "fields": {
+            "symbol": "SWM",
+            "name": "SCHWEITZER-MAUDUIT INTL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 762,
+        "fields": {
+            "symbol": "SY",
+            "name": "SO-YOUNG INTERNATIONAL-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 763,
+        "fields": {
+            "symbol": "SYN",
+            "name": "SYNTHETIC BIOLOGICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 764,
+        "fields": {
+            "symbol": "SZC",
+            "name": "CUSHING RENAISSANCE FUND/THE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 765,
+        "fields": {
+            "symbol": "TAIL",
+            "name": "CAMBRIA TAIL RISK ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 766,
+        "fields": {
+            "symbol": "TANNZ",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 767,
+        "fields": {
+            "symbol": "TAWK",
+            "name": "DIREXION DAILY COMM BULL 3X"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 768,
+        "fields": {
+            "symbol": "TBLT",
+            "name": "TOUGHBUILT INDUSTRIES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 769,
+        "fields": {
+            "symbol": "TCBI",
+            "name": "TEXAS CAPITAL BANCSHARES INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 770,
+        "fields": {
+            "symbol": "TCLD",
+            "name": "TORTOISE CLOUD INFRASTRUCTUR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 771,
+        "fields": {
+            "symbol": "TCRW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 772,
+        "fields": {
+            "symbol": "TDC",
+            "name": "TERADATA CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 773,
+        "fields": {
+            "symbol": "TDTT",
+            "name": "FLEXSHARES IBOXX 3-YEAR TARG"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 774,
+        "fields": {
+            "symbol": "TECK",
+            "name": "TECK RESOURCES LTD-CLS B"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 775,
+        "fields": {
+            "symbol": "TENB",
+            "name": "TENABLE HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 776,
+        "fields": {
+            "symbol": "TFFP",
+            "name": "TFF PHARMACEUTICALS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 777,
+        "fields": {
+            "symbol": "TGC",
+            "name": "TENGASCO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 778,
+        "fields": {
+            "symbol": "TGS",
+            "name": "TRANSPORTADOR GAS SUR-SP B"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 779,
+        "fields": {
+            "symbol": "THCAW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 780,
+        "fields": {
+            "symbol": "THMO",
+            "name": "CESCA THERAPEUTICS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 781,
+        "fields": {
+            "symbol": "TIBR",
+            "name": "TIBERIUS ACQUISITION CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 782,
+        "fields": {
+            "symbol": "TIPX",
+            "name": "SPDR BBG BARC 1-10YR TIPS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 783,
+        "fields": {
+            "symbol": "TKKSR",
+            "name": "TKK SYMPHONY ACQUISITION-RTS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 784,
+        "fields": {
+            "symbol": "TLI",
+            "name": "WESTERN ASSET CORPORATE LOAN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 785,
+        "fields": {
+            "symbol": "TLYS",
+            "name": "TILLY'S INC-CLASS A SHRS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 786,
+        "fields": {
+            "symbol": "TMHC",
+            "name": "TAYLOR MORRISON HOME CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 787,
+        "fields": {
+            "symbol": "TNC",
+            "name": "TENNANT CO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 788,
+        "fields": {
+            "symbol": "TOCA",
+            "name": "TOCAGEN INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 789,
+        "fields": {
+            "symbol": "TORC",
+            "name": "RESTORBIO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 790,
+        "fields": {
+            "symbol": "TPB",
+            "name": "TURNING POINT BRANDS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 791,
+        "fields": {
+            "symbol": "TPL",
+            "name": "TEXAS PACIFIC LAND TRUST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 792,
+        "fields": {
+            "symbol": "TPZ",
+            "name": "TORTOISE POWER & ENRGY INFRA"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 793,
+        "fields": {
+            "symbol": "TRHC",
+            "name": "TABULA RASA HEALTHCARE INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 794,
+        "fields": {
+            "symbol": "TRND",
+            "name": "PACER TRENDPILOT FUNDS OF FD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 795,
+        "fields": {
+            "symbol": "TRP",
+            "name": "TC ENERGY CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 796,
+        "fields": {
+            "symbol": "TRTY",
+            "name": "CAMBRIA TRINITY ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 797,
+        "fields": {
+            "symbol": "TRXC",
+            "name": "TRANSENTERIX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 798,
+        "fields": {
+            "symbol": "TSI",
+            "name": "TCW STRATEGIC INCOME FUND IN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 799,
+        "fields": {
+            "symbol": "TTAI",
+            "name": "TRIMTABS ALL CAP INT CSH FLO"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 800,
+        "fields": {
+            "symbol": "TTOO",
+            "name": "T2 BIOSYSTEMS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 801,
+        "fields": {
+            "symbol": "TUP",
+            "name": "TUPPERWARE BRANDS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 802,
+        "fields": {
+            "symbol": "TVTY",
+            "name": "TIVITY HEALTH INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 803,
+        "fields": {
+            "symbol": "TWNKW",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 804,
+        "fields": {
+            "symbol": "TX",
+            "name": "TERNIUM SA-SPONSORED ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 805,
+        "fields": {
+            "symbol": "TYG",
+            "name": "TORTOISE ENERGY INFRASTRUCT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 806,
+        "fields": {
+            "symbol": "UA",
+            "name": "UNDER ARMOUR INC-CLASS C"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 807,
+        "fields": {
+            "symbol": "UAVS",
+            "name": "AGEAGLE AERIAL SYSTEMS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 808,
+        "fields": {
+            "symbol": "UBP-H",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 809,
+        "fields": {
+            "symbol": "UCHF",
+            "name": "VELOCITYSHARES DAILY 4X LONG"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 810,
+        "fields": {
+            "symbol": "UE",
+            "name": "URBAN EDGE PROPERTIES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 811,
+        "fields": {
+            "symbol": "UFPI",
+            "name": "UNIVERSAL FOREST PRODUCTS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 812,
+        "fields": {
+            "symbol": "UGLD",
+            "name": "VELOCITYSHARES 3X LONG GOLD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 813,
+        "fields": {
+            "symbol": "UJAN",
+            "name": "INNOVATOR S&P 500 ULTRA-JAN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 814,
+        "fields": {
+            "symbol": "ULST",
+            "name": "SPDR ULTRA SHORT-TERM BOND"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 815,
+        "fields": {
+            "symbol": "UMH-D",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 816,
+        "fields": {
+            "symbol": "UNIT",
+            "name": "UNITI GROUP INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 817,
+        "fields": {
+            "symbol": "UONE",
+            "name": "URBAN ONE INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 818,
+        "fields": {
+            "symbol": "URE",
+            "name": "PROSHARES ULTRA REAL ESTATE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 819,
+        "fields": {
+            "symbol": "USAI",
+            "name": "AMERN ENERGY INDEPENDENCE ET"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 820,
+        "fields": {
+            "symbol": "USB-P",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 821,
+        "fields": {
+            "symbol": "USFD",
+            "name": "US FOODS HOLDING CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 822,
+        "fields": {
+            "symbol": "USLV",
+            "name": "VELOCITYSHARES 3X LNG SILVER"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 823,
+        "fields": {
+            "symbol": "USPH",
+            "name": "U.S. PHYSICAL THERAPY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 824,
+        "fields": {
+            "symbol": "UTES",
+            "name": "VIRTUS REAVES UTILITIES ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 825,
+        "fields": {
+            "symbol": "UTX",
+            "name": "UNITED TECHNOLOGIES CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 826,
+        "fields": {
+            "symbol": "UWT",
+            "name": "VELOCITYSHARES 3X LONG CRUDE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 827,
+        "fields": {
+            "symbol": "VAL",
+            "name": "VALARIS PLC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 828,
+        "fields": {
+            "symbol": "VAW",
+            "name": "VANGUARD MATERIALS ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 829,
+        "fields": {
+            "symbol": "VC",
+            "name": "VISTEON CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 830,
+        "fields": {
+            "symbol": "VCTR",
+            "name": "VICTORY CAPITAL HOLDING - A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 831,
+        "fields": {
+            "symbol": "VEGA",
+            "name": "ADVSHRS STAR GBL BUY-WRITE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 832,
+        "fields": {
+            "symbol": "VERY",
+            "name": "VERICITY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 833,
+        "fields": {
+            "symbol": "VFMO",
+            "name": "VANGUARD US MOMENTUM FACTOR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 834,
+        "fields": {
+            "symbol": "VGM",
+            "name": "INVESCO TRUST FOR INVESTMEN"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 835,
+        "fields": {
+            "symbol": "VIAV",
+            "name": "VIAVI SOLUTIONS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 836,
+        "fields": {
+            "symbol": "VIOO",
+            "name": "VANGUARD S&P SMALL-CAP 600 E"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 837,
+        "fields": {
+            "symbol": "VIV",
+            "name": "TELEFONICA BRASIL-ADR PREF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 838,
+        "fields": {
+            "symbol": "VLGEA",
+            "name": "VILLAGE SUPER MARKET-CLASS A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 839,
+        "fields": {
+            "symbol": "VMBS",
+            "name": "VANGUARD MORTGAGE-BACKED SEC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 840,
+        "fields": {
+            "symbol": "VNE",
+            "name": "VEONEER INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 841,
+        "fields": {
+            "symbol": "VNQI",
+            "name": "VANGUARD GLBL EX-US REAL EST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 842,
+        "fields": {
+            "symbol": "VONV",
+            "name": "VANGUARD RUSSELL 1000 VALUE"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 843,
+        "fields": {
+            "symbol": "VPG",
+            "name": "VISHAY PRECISION GROUP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 844,
+        "fields": {
+            "symbol": "VRIG",
+            "name": "INVESCO VARIABLE RATE INVEST"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 845,
+        "fields": {
+            "symbol": "VRTS",
+            "name": "VIRTUS INVESTMENT PARTNERS"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 846,
+        "fields": {
+            "symbol": "VSI",
+            "name": "VITAMIN SHOPPE INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 847,
+        "fields": {
+            "symbol": "VTA",
+            "name": "INVESCO DYNAMIC CREDIT OPP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 848,
+        "fields": {
+            "symbol": "VTN",
+            "name": "INVESCO TRUST FOR INVESTMENT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 849,
+        "fields": {
+            "symbol": "VUSE",
+            "name": "VIDENT CORE US EQUITY ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 850,
+        "fields": {
+            "symbol": "VXF",
+            "name": "VANGUARD EXTENDED MARKET ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 851,
+        "fields": {
+            "symbol": "WAAS",
+            "name": "AQUAVENTURE HOLDINGS LTD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 852,
+        "fields": {
+            "symbol": "WAT",
+            "name": "WATERS CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 853,
+        "fields": {
+            "symbol": "WBII",
+            "name": "WBI BULLBEAR GLOBAL INCOME E"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 854,
+        "fields": {
+            "symbol": "WCC",
+            "name": "WESCO INTERNATIONAL INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 855,
+        "fields": {
+            "symbol": "WDR",
+            "name": "WADDELL & REED FINANCIAL-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 856,
+        "fields": {
+            "symbol": "WES",
+            "name": "WESTERN MIDSTREAM PARTNERS L"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 857,
+        "fields": {
+            "symbol": "WFC-Q",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 858,
+        "fields": {
+            "symbol": "WGO",
+            "name": "WINNEBAGO INDUSTRIES"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 859,
+        "fields": {
+            "symbol": "WHR",
+            "name": "WHIRLPOOL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 860,
+        "fields": {
+            "symbol": "WIRE",
+            "name": "ENCORE WIRE CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 861,
+        "fields": {
+            "symbol": "WLFC",
+            "name": "WILLIS LEASE FINANCE CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 862,
+        "fields": {
+            "symbol": "WMK",
+            "name": "WEIS MARKETS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 863,
+        "fields": {
+            "symbol": "WORX",
+            "name": "SCWORX CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 864,
+        "fields": {
+            "symbol": "WPX",
+            "name": "WPX ENERGY INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 865,
+        "fields": {
+            "symbol": "WRLS",
+            "name": "PENSARE ACQUISITION CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 866,
+        "fields": {
+            "symbol": "WSG",
+            "name": "WANDA SPORTS GROUP CO LT-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 867,
+        "fields": {
+            "symbol": "WTFC",
+            "name": "WINTRUST FINANCIAL CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 868,
+        "fields": {
+            "symbol": "WTRH",
+            "name": "WAITR HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 869,
+        "fields": {
+            "symbol": "WVVIP",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 870,
+        "fields": {
+            "symbol": "WYY",
+            "name": "WIDEPOINT CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 871,
+        "fields": {
+            "symbol": "XBUY",
+            "name": "AMPLIFY INTL ONLINE RETAIL"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 872,
+        "fields": {
+            "symbol": "XENT",
+            "name": "INTERSECT ENT INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 873,
+        "fields": {
+            "symbol": "XIN",
+            "name": "XINYUAN REAL ESTATE CO L-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 874,
+        "fields": {
+            "symbol": "XLNX",
+            "name": "XILINX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 875,
+        "fields": {
+            "symbol": "XLY",
+            "name": "CONSUMER DISCRETIONARY SELT"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 876,
+        "fields": {
+            "symbol": "XOG",
+            "name": "EXTRACTION OIL & GAS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 877,
+        "fields": {
+            "symbol": "XPL",
+            "name": "SOLITARIO ZINC CORP"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 878,
+        "fields": {
+            "symbol": "XSHQ",
+            "name": "INVESCO S&P SMALLCAP QUALITY"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 879,
+        "fields": {
+            "symbol": "XTLB",
+            "name": "XTL BIOPHARMACEUTICALS-ADR"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 880,
+        "fields": {
+            "symbol": "YCBD",
+            "name": "CBDMD INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 881,
+        "fields": {
+            "symbol": "YGYIP",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 882,
+        "fields": {
+            "symbol": "YNDX",
+            "name": "YANDEX NV-A"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 883,
+        "fields": {
+            "symbol": "YUMC",
+            "name": "YUM CHINA HOLDINGS INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 884,
+        "fields": {
+            "symbol": "ZB-G",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 885,
+        "fields": {
+            "symbol": "ZDEU",
+            "name": "SPDR SOLACTIVE GERMANY ETF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 886,
+        "fields": {
+            "symbol": "ZGNX",
+            "name": "ZOGENIX INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 887,
+        "fields": {
+            "symbol": "ZJZZT",
+            "name": ""
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 888,
+        "fields": {
+            "symbol": "ZROZ",
+            "name": "PIMCO 25+ YR ZERO CPN US TIF"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 889,
+        "fields": {
+            "symbol": "ZVO",
+            "name": "ZOVIO INC"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 890,
+        "fields": {
+            "symbol": "BTCUSDT",
+            "name": "Bitcoin USD"
+        }
+    },
+    {
+        "model": "portfoliomanagerapi.stock",
+        "pk": 891,
+        "fields": {
+            "symbol": "LTCUSDT",
+            "name": "Litecoin USD"
+        }
+    }
+]
